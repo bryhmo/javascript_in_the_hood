@@ -12,4 +12,11 @@ if(true){
 }
 // console.log(x);
 // console.log(y);
-console.log(z);
+// console.log(z);
+
+
+console.log(testvar);
+var testvar = 50;
+
+console.log(testlet);
+let testlet = 100;
