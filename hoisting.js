@@ -13,11 +13,11 @@ let a = 5;
 }
 
 
-let a = 5;
+let c = 5;
 
 function test() {
     console.log(a);
-    let a = 10;
+    let c = 10;
 }
 
 test();
